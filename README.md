@@ -6,6 +6,10 @@ Hi, I'm Jessica Tsoi. I'm a 3rd year computational statistics undergraduate stud
 
 ### STA 141B
 
-#### [Final Project](STA141B/FinalProject/Calculated2.py)
+#### [Playing With A Cat Image](STA141B/Assignment2/)
 
 Description
+
+#### [Final Project](STA141B/FinalProject/)
+
+Description 
