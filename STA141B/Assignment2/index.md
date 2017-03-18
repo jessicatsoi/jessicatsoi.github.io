@@ -1,6 +1,4 @@
 
-# Jessica Tsoi 912264565
-
 # Assignment 2
 
 ## Part 1: Image Processing Basics
