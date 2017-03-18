@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+  background-image: url(coolheaderman.jpg)
+}
+
 h1 {
   a {
     color: white;
