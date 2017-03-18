@@ -6,7 +6,7 @@ Thanks for visiting my site!
 
 ## Projects
 
-### STA 141B
+### STA 141B - Data & Web Technologies for Data Analysis
 
 #### [Playing With A Cat Image 😻](STA141B/Assignment2/)
 
