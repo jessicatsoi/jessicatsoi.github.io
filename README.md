@@ -14,7 +14,7 @@ In this assignment, I converted an image of a cat into any array and swapped col
 
 #### [Food Nutrients 🍎](STA141B/Assignment4/)
 
-In this assignment, I wrote a funciton that searched for foods from a given dataset in the USDA Food Composition Databases. I then created a dataframe to store information on the given foods created plots and to decide which foods provide the best combination of price, yield, and nutrition with kcals as a measure of "nutrition.
+In this assignment, I wrote a function that searched for foods from a given dataset in the USDA Food Composition Databases. I then created a dataframe to store information on the given foods and created plots and to decide which foods provide the best combination of price, yield, and nutrition with kcals as a measure of "nutrition."
 
 #### [Final Project 🔥](STA141B/FinalProject/)
 
