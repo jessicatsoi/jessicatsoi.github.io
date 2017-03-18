@@ -9,12 +9,13 @@ Thanks for visiting my site!
 
 #### [Playing With A Cat Image](STA141B/Assignment2/)
 
-Description
+In this assignment, I converted an image of a cat into any array and swapped color channels of the image. I then used singular value decompsition to see what the smallest number of terms was where the cat is still recognizable as a cat. 
 
 #### [Food Nutrients](STA141B/Assignment4/)
 
-Description
+In this assignment, I wrote a funciton that searched for foods from a given dataset in the USDA Food Composition Databases. I then created a dataframe to store information on the given foods created plots and to decide which foods provide the best combination of price, yield, and nutrition with kcals as a measure of "nutrition.
 
 #### [Final Project](STA141B/FinalProject/)
 
-Description 
+My teammates and I did a study on young people. We decided to put a spin on our project and think of it as a consulting project where we take our data, draw conclusions from it, and advise a client on how to utilize our conclusions. For our purposes, we will be advising an advertising client on the spending habits of subjects from our dataset.
+
