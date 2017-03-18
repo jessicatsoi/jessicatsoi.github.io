@@ -10,6 +10,10 @@ Hi, I'm Jessica Tsoi. I'm a 3rd year computational statistics undergraduate stud
 
 Description
 
+#### [Food Nutrients](STA141B/Assignment4/)
+
+Description
+
 #### [Final Project](STA141B/FinalProject/)
 
 Description 
