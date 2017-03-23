@@ -9,15 +9,19 @@ Thanks for visiting my site!
 
 ### STA 141B - Data & Web Technologies for Data Analysis
 
-#### [Playing With A Cat Image 😻](STA141B/Assignment2/)
+#### [Playing With A Cat Image 😻](STA141B/a2.html)
+<!---  (STA141B/Assignment2/)
+--->
 
 In this assignment, I converted an image of a cat into any array and swapped color channels of the image. I then used singular value decompsition to see what the smallest number of terms was where the cat is still recognizable as a cat. 
 
-#### [Food Nutrients 🍎](STA141B/Assignment4/)
+#### [Food Nutrients 🍎](STA141B/a4.html)
+<!---  (STA141B/Assignment4/)
+--->
 
 In this assignment, I used the USDA food composition database API to scrape information about various foods, assign a “nutritional value” based on their price, yield, and kilocalories, and plot their nutritional value.
 
-#### [San Francisco Real Estate, Crime, and Parking 🌁]
+#### [San Francisco Real Estate, Crime, and Parking 🌁](STA141B/a6.html)
 <!---  (STA141B/Assignment6/)
 --->
 
