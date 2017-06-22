@@ -16,7 +16,7 @@ In this assignment, I converted an image of a cat into any array and swapped col
 #### [Food Nutrients 🍎](STA141B/a4.html)
 In this assignment, I used the USDA food composition database API to scrape information about various foods, assign a “nutritional value” based on their price, yield, and kilocalories, and plot their nutritional value.
 
-#### [San Francisco Real Estate, Crime, and Parking 🌁](STA141B/a6.html)
+[San Francisco Real Estate, Crime, and Parking 🌁](STA141B/a6.html)
 
 In this assignment, I analyzed a collection of data sets from the San Francisco Open Data Portal and Zillow. I then chose to look more into the real estate, crime, and parking of San Francisco.
 
