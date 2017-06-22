@@ -1,6 +1,6 @@
 ## About Me 💁🏻
 
-Hi, I'm Jessica! I'm a 3rd year computational statistics undergraduate student. This summer, I will be interning at KPMG as an advisory intern. My academic interests currently include working on strengthinging my programming skills for data science, working with categorical data, and learning more about nutrition. In my spare time, I enjoy traveling, exchanging puns, eating delicious food (especially sweets), learning new trivia, and sleeping. I also recently rediscovered an interest in baking. 
+Hi, I'm Jessica! I'm a rising senior studying computational statistics as undergraduate student. This summer, I will be interning at KPMG as an advisory intern. In the fall, I will be returning as an undergraduate research assistant with Professor Matloff. My academic interests currently include working on strengthinging my programming skills for data science, working with categorical data, and learning more about nutrition. In my spare time, I enjoy traveling, exchanging puns, eating delicious food (especially sweets), learning new trivia, and sleeping. I also recently rediscovered an interest in baking. 
 Thanks for visiting my site!
 
 
